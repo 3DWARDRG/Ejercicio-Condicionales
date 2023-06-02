@@ -1,0 +1,3 @@
+# Ejercicio-Condicionales
+
+Este proyecto me ayudo a facilitar mi pensamiento logico al realizar diferentes ejercicios planteados en el campus intentando hacerlo con poco conocimiento para poner a prueba y entender de manera mas especifica el tema. Teniendo en cuenta que hay variables y metodos que hubieran hecho mas practico y tecnico mi aprendizaje, queria enfatizar en la logica sin alternativas que me facilitaran la misma.
